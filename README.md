@@ -1,4 +1,4 @@
-## Hi, My name is Diogo! Nice to meet you <3
+## Hi, My name is Diogo! Nice to meet you 😉😎🤜🤛
 I´m brazilian 🇧🇷🗺️
 <!--
 **Diogordo08/Diogordo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
