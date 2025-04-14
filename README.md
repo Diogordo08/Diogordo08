@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently searching for some job in developer area
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Java
 - 💬 Ask me about my hobbies, I´d love to share with you
 - 📫 How to reach me: diogoleite082006@gmail.com
 - 😄 Pronouns: He/Him
